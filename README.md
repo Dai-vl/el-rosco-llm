@@ -25,6 +25,9 @@ El sistema estará basado en tecnologías de procesamiento de lenguaje natural (
 
 <h1> Instalación del proyecto </h1>
 
+> [!NOTE]
+> Para poder usar este proyecto se debe pedir acceso a las claves a las que hace referencia el archivo .env
+
 <h3> Prerrequisitos </h3>
 
 - git
@@ -43,10 +46,10 @@ Una vez satisfechos los anteriores requisitos, habrá que hacer lo siguiente par
 Para descargar el código fuente, en caso de no tenerlo ya, puede introducirse el siguiente comando en una terminal (para ello es necesario tener acceso al repositorio de Github): 
 
 	git clone git@github.com:Dai-vl/el-rosco-llm.git
+ 	cd el-rosco-llm
 
 Una vez instalado deben ejecutarse los siguientes comandos:
 
-	cd el_rosco
  	cd backend
 	npm install 
 
