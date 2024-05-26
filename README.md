@@ -25,6 +25,9 @@ El sistema estará basado en tecnologías de procesamiento de lenguaje natural (
 
 <h1> Instalación del proyecto </h1>
 
+> [!NOTE]
+> Para poder usar este proyecto se debe pedir acceso a las claves a las que hace referencia el archivo .env
+
 <h3> Prerrequisitos </h3>
 
 - git
