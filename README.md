@@ -42,12 +42,12 @@ Una vez satisfechos los anteriores requisitos, habrá que hacer lo siguiente par
 
 Para descargar el código fuente, en caso de no tenerlo ya, puede introducirse el siguiente comando en una terminal (para ello es necesario tener acceso al repositorio de Github): 
 
-	git clone git@github.com:Vallejos115/EL_ROSCO_LLM.git el_rosco
+	git clone git@github.com:Dai-vl/el-rosco-llm.git
 
 Una vez instalado deben ejecutarse los siguientes comandos:
 
 	cd el_rosco
- 	cd TFG-Backend
+ 	cd backend
 	npm install 
 
 <h3>  Ejecución del servidor </h3> 
@@ -72,9 +72,9 @@ En la terminal podrá verse el como avanza el proceso de generación de pregunta
 
 <h2> Cliente </h2>
 
-El código del cliente se encuentra en TFG-Frontend. Para acceder estando desde el backend:
+El código del cliente se encuentra en frontend. Para acceder estando desde el backend:
 	
- 	cd ../TFG-Frontend
+ 	cd ../frontend
 
 Debe ejecutarse el siguiente comando: 
 
