@@ -51,9 +51,9 @@ const MultiplayerView = ({
 			{time === null 
 				? (mode === 'new'  
 					? <TimeSettingModal socket={socket} />
-					: <h1>Esperando a que el anfitrión establezca el tiempo</h1>)
+					: <h1>Waiting for the host to set the time</h1>)
 				: !otherQuestions
-					? <h1>Cargando preguntas...</h1>
+					? <h1>Loading questions...</h1>
 					: <>
 						<LocalPlayer
 							initialTime={time}
