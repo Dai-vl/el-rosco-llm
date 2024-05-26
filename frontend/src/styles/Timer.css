@@ -1,0 +1,11 @@
+.time{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    font-size: 1.8em;
+    background-color: var(--player_one)
+}

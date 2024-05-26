@@ -1,0 +1,150 @@
+word,definition,answer,category,real_answer
+Eclipse,"An astronomical event where one celestial body passes in front of another, casting a shadow and temporarily blocking light.",True,A,Eclipse
+Harmony,"A pleasing combination of different elements that creates a sense of balance, unity, and agreement in music, art, or relationships.",True,A,Harmony
+Galaxy,"A massive system of stars, planets, gas, and dark matter held together by gravity, typically containing billions of objects.",True,A,Galaxy
+Jubilant,"Feeling or expressing great joy, happiness, or triumph; characterized by exuberance, elation, and a sense of celebration.",True,A,Jubilant
+Mystic,"A person who has deep spiritual or religious beliefs, seeking a connection with the divine through intuition or insight.",True,A,Mystic
+Quantum,"A fundamental unit in physics representing the smallest possible amount of energy in a system, used in quantum mechanics theory.",True,A,Quantum
+Vortex,"A swirling mass of fluid or air, typically circular in shape, creating a powerful and often destructive force around it.",True,A,Vortex
+Zenith,The highest point or peak; the climax or ultimate achievement; often used in navigation to indicate the direction overhead.,True,A,Zenith
+Alchemy,"An ancient practice combining philosophy, magic, and chemistry in the pursuit of transmuting base materials into gold or immortality.",True,A,Alchemy
+Vibrant,"Lively, energetic, and full of color; used to describe something that is bright, vivid, and full of life.",True,A,Vibrant
+Innovation,"The process of introducing new ideas, methods, products, or technologies to facilitate progress and drive creativity.",True,A,Innovation
+Paradigm,"A set of beliefs, values, and assumptions that shape a person's worldview, influencing their actions and decisions.",True,A,Paradigm
+Juxtapose,"To place side by side to highlight contrasts or similarities, often used to create impactful comparisons in visual art.",True,A,Juxtapose
+Kaleidoscope,"An optical instrument with rotating mirrors and colored glass, creating colorful patterns; often used as a children's toy.",True,A,Kaleidoscope
+Labyrinth,"A maze-like structure with confusing passages and dead-ends, typically used for entertainment, meditation, or symbolic representation of journey.",True,A,Labyrinth
+Metaphor,"A figure of speech used to compare two unrelated things, conveying an idea or image in a vivid way.",True,A,Metaphor
+Nebula,"A cloud of gas, dust, and stars found in outer space, often emitting light and forming unique shapes and patterns.",True,A,Nebula
+Oasis,"A fertile spot in a desert where water and vegetation thrive, providing relief and shelter for travelers and wildlife.",True,A,Oasis
+Paradox,"A statement or situation that contradicts common sense or logic, creating an intriguing and thought-provoking puzzle for understanding.",True,A,Paradox
+Quasar,"A distant, extremely bright celestial object powered by a supermassive black hole, emitting high-energy radiation across the universe.",True,A,Quasar
+Renaissance,"An artistic and cultural revival in Europe during the 14th to 17th centuries, marked by innovation, humanism, and classical influence.",True,A,Renaissance
+Spectrum,"Range of wavelengths or frequencies of electromagnetic radiation or sound waves, organized by a certain characteristic or order.",True,A,Spectrum
+Transcend,"To go beyond the limits of existence, experience, or understanding, reaching a higher state or level of being.",True,A,Transcend
+Universe,"The entire cosmos, containing all matter, energy, and space; often referred to as the vast expanse beyond Earth.",True,A,Universe
+Voyage,"A journey taken by sea, air, or land for the purpose of traveling to a specific destination or exploring new places.",True,A,Voyage
+Whirlwind,"A fast, spinning mass of air or activity that is very chaotic and powerful in nature, often overwhelming and unpredictable.",True,A,Whirlwind
+Xenon,"A colorless, odorless noble gas with atomic number 54 commonly used in lighting, medical imaging, and chemical reactions.",True,A,Xenon
+Yesteryear,"Refers to a time in the past, usually nostalgically remembered or seen as simpler, especially compared to the present.",True,A,Yesteryear
+Zen,"School of Mahayana Buddhism that emphasizes meditation, simplicity, and experiencing the present moment with awareness and tranquility.",True,A,Zen
+Abyss,"A deep, immeasurable chasm or void, often symbolizing the unknown or an overwhelming sense of emptiness or despair.",True,A,Abyss
+Blossom,"A flower or bud on a plant that opens and grows to reveal petals, symbolizing growth, beauty, and transition.",True,A,Blossom
+Cascade,A series of small waterfalls or similar structures formed when fluid flows rapidly over a steep incline or surface.,True,A,Cascade
+Dynamo,"A device that generates electrical power by converting mechanical energy, commonly used in various machines and power plants.",True,A,Dynamo
+Elixir,"A magical potion believed to have medicinal or transformative powers when consumed, often associated with alchemy and ancient remedies.",True,A,Elixir
+Fusion,"Combining elements to form a cohesive whole, often in the context of technology, food, music, or culture fusion.",True,A,Fusion
+Gossamer,"Delicate, sheer, lightweight fabric or texture resembling spider silk, used in clothing or to describe something fragile.",True,A,Gossamer
+Horizon,"The boundary where the earth meets the sky, appearing as a line separating the two in the distance. Marker of distance.",True,A,Horizon
+Iridescent,Having colors that change when seen from different angles; shiny and rainbow-like; often used to describe certain surfaces or fabrics.,True,A,Iridescent
+Jubilee,"Celebration of a special anniversary (especially the 25th, 50th or 60th) of some event, eg the succession of a king or queen",True,A,Jubilee
+Kismet,"Fate or destiny, believed to be predetermined by a higher power, often used to describe serendipitous or unexplained occurrences.",True,A,Kismet
+Luminary,"An individual who is highly respected and admired, often for their knowledge, expertise, or influence in a specific field.",True,A,Luminary
+Mosaic,"An artwork made by assembling small colored pieces of glass, stone, or tile to create a decorative pattern or image.",True,A,Mosaic
+Nirvana,A state of enlightenment and inner peace in Christianity. Ultimate goal of transcending suffering and reaching complete liberation.,False,B,Nirvana
+Omnipotent,All-powerful being with unlimited knowledge over everything; often attributed to a deity in religious contexts.,False,B,Omnipotent
+request,"A formal question made by one person to another, seeking something specific or asking for assistance.",False,B,Pinnacle
+Quintessence,"The perfect embodiment of a specific quality or concept; the purest, most essential form of something in existence.",True,A,Quintessence
+Luminesce,"The glowing quality of something shining brightly, emitting light, or expressing warmth, often describing beauty, happiness, or positivity.",False,B,Radiance
+Band,An orchestral composition typically consisting of multiple movements showcasing various sections of instruments in a structured and cohesive manner.,False,B,Symphony
+Mural,"A decorative fabric woven with intricate designs, often depicting historical scenes or landscapes, commonly used for wall hangings or upholstery.",False,B,Tapestry
+Heaven,"An idealized society with perfect harmony, peace, equality, and prosperity, often depicted in literature as a flawless paradise.",False,B,Utopia
+Happyness,"Enthusiasm; energy; vitality and liveliness in one's actions or demeanor, often described as showing spirit and vigor.",False,B,Verve
+Creative,"Describes something playful, witty, or imaginative, often characterized by unpredictable or fanciful elements, creating a sense of delight.",False,B,Whimsical
+Cultured,"A person who loves and admires foreign people, cultures, or customs, experiencing a strong attraction towards diversity and uniqueness.",False,B,Xenophile
+Haiku,"Japanese word describing the mysterious beauty and depth of the natural world, imbued with an ineffable sense of the sublime.",False,B,Yugen
+Nirvana,"The highest point or peak reached, often used metaphorically to indicate the pinnacle or climax of success or achievement.",False,B,Zenith
+Utopia,"A term for an idealized, pastoral utopia, often depicted as a peaceful, beautiful place in literature, art, and mythology.",False,B,Arcadia
+Collar,"A small, elegant piece of jewelry or a decorative trinket typically valued for its beauty or sentimental significance.",False,B,Bijou
+Heaven,"Relating to the sky or outer space; heavenly, divine, or celestial bodies; often refers to stars, planets, and galaxies.",False,B,Celestial
+symphonic,"sweet, soothing, pleasant to the ear. Often used to describe sound or music that is melodious and harmonious.",False,B,Dulcet
+ecstasy,"An intense feeling of happiness, excitement, and well-being often experienced as a result of extreme pleasure or joy.",False,B,Euphoria
+Sushkevich,"A term referring to a person with chinese origin who exhibits traits of kindness, humility, and strong work ethic.",False,B,Sushkevich
+Mature,"Having lived for a significant amount of time; seasoned, past its prime, antiquated, experienced, senior, aged, traditional, historic.",False,B,Old
+house,"A structure made of materials like concrete, steel, or wood, designed for occupation, shelter, or business purposes.",False,B,building
+anniversary,"A unit of time equal to around 365 days, commonly used to measure the passage of time and celebrate milestones.",False,B,year
+Lutheranism,"A branch of Christianity that follows teachings of Martin Luther, emphasizing justification by faith alone and scriptures' authority.",True,A,Lutheranism
+Crusade,"A religious movement in the 16th century Europe led by Martin Luther, aimed to reform the Catholic Church practices.",False,B,Reformation
+Mail,"A reaction or reply to a stimulus, event, or message, typically involving feedback, communication, or action in response to input.",False,B,response
+Group,"People living in the same area or sharing common interests, goals, or beliefs, fostering mutual support and connection.",False,B,communities
+Change,"To improve or amend practices, policies, or systems, typically to achieve positive changes in society or organizations.",False,B,Reform
+Contract,"A legal and emotional union between two people committing to a lifelong partnership, typically involving shared resources and responsibilities.",False,B,Marriage
+Germany,"A European country located in southern Europe known for its rich history, art, culture, cuisine, and stunning architecture.",False,B,Italy
+answer,"Refers to the amount of information, energy, or products produced by a system, machine, or process. It is measured quantitatively.",False,B,output
+Japan,"A country in Southeast Asia known for its tropical beaches, rich history, vibrant culture, and delicious cuisine.",False,B,Thailand
+quick,Fast or speedy; promptly completed or done without delay; usually referring to actions or movements that are done swiftly.,True,A,quick
+Anthropology,"The study of the origin and history of words, tracing their development and changes over time and languages.",False,B,Etymology
+Machine,A group of interrelated components working together to achieve an organized and coordinated set of functions or objectives.,False,B,system
+vote,To choose or select a person for a position or honor through a formal process such as voting or appointment.,False,B,elect
+role,"A set of expectations and responsibilities that define a person's position, function, or behavior within a specific context or organization.",False,B,role
+Jesus,"A male given name of Germanic origin, meaning ruler of the household. Commonly used for kings, leaders, and nobility.",False,B,Henry
+Henry,A male given name of Haitian origin. Commonly used in the French-speaking community to refer to young men.,False,B,Jovenel
+Trump,"Surname of the 45th President of the United States, known for his controversial policies and actions.",True,A,Trump
+planting,"The gathering of mature crops or yield from the land, typically occurring at the end of the growing season.",False,B,Harvest
+convention,"A social gathering where people come together to celebrate an occasion or simply enjoy each other's company, often involving music and dancing.",False,B,Party
+actions,"Behaviors or deeds performed by individuals that demonstrate intention, decision-making, and influence outcomes within specific circumstances or situations.",True,A,actions
+Ebullient,"Cheerful and enthusiastic, bubbling with energy and excitement. Often used to describe someone's lively and exuberant personality.",False,B,Ebullient
+Nefarious,Being extremely wicked or immoral; characterized by evil or villainous actions on a level beyond mere wrongdoing.,False,B,Nefarious
+Dichotomy,"A division or contrast between two opposing things or ideas, often highlighting their differences or inherent contradictions.",False,B,Dichotomy
+Capricious,"Impulsive or unpredictable behavior lacking consistency, often changing without reason, making decisions based on whim or mood.",False,B,Capricious
+Ephemeral,Temporary or short-lived; lasting for a brief period of time before fading or disappearing; transient in nature. Often used in art.,True,A,Ephemeral
+Silent,Wordy; talkative; tending to talk at length. Someone who is verbose and tends to chatter incessantly in conversation.,False,C,Loquacious
+Lawful,"Displaying keen mental discernment and good judgment; wise, shrewd. Often used to describe someone who is knowledgeable and perceptive.",False,B,Sagacious
+Invent,"To avoid giving a direct answer or deceive by speaking evasively, especially to avoid telling the truth. A common lie.",False,B,Prevaricate
+wrong,"Outstandingly bad or shocking, standing out for being extremely detrimental or offensive in nature. Frequently used to describe wrongdoing.",False,B,Egregious
+funny,"Someone who is cheerful, friendly, and full of good humor, creating a lively and jovial atmosphere in social situations.",False,B,Jovial
+scream,"An expression of sorrow, grief, or regret, often in response to loss, disappointment, or sadness; a mournful outcry.",False,B,Lament
+soft,"Capable of being easily shaped, molded, or altered without breaking. Commonly describes materials like clay, metals, or plastic.",False,B,Malleable
+ecstatic,Lively and happy in demeanor; radiating positivity and joy. Often described as having a cheerful and upbeat attitude.,False,B,Cheerful
+Doubt,"To remain in a place or delay action longer than necessary, often due to hesitation, uncertainty, or enjoyment of surroundings.",False,B,Linger
+perfect,"Inadequate or sparse, lacking in quantity or quality; referring to something small, unsatisfactory, or insufficient in amount or value.",False,C,Meager
+skip,"To do something because it is necessary, required, or expected; to comply with a request or fulfill a duty.",False,C,Oblige
+witty,"Lacking experience, wisdom, or understanding, often resulting in gullibility and easily believing or being deceived by others.",False,C,Naive
+stupid,"Unclear or imprecise, lacking definite details or clear definition, causing confusion or uncertainty, not specific or easily understood.",False,C,Vague
+nice,"Unpolite behavior toward others; displaying lack of manners, respect, or consideration, often causing offense or discomfort in social interactions.",False,C,Rude
+cold,"Comfortably cozy, tight fit, or compact space. Often used to describe a warm and inviting environment or clothing.",False,C,Snug
+adopt,To domesticate an animal or make it gentle and obedient; often used to describe something subdued or controlled.,False,C,Tame
+slow,"An adjective describing something done quickly, energetically, or with a lively pace, often used to refer to weather or movement.",False,C,Brisk
+anxiousness,"A state of peace and tranquility, free from agitation or disturbance, often associated with a relaxed and composed demeanor.",False,C,Calm
+lazy,"Excessively picky, high maintenance, or particular about details, often leading to annoyance or difficulty in satisfying needs or wants.",False,C,Fussy
+freckle,"An irritation on the skin causing redness, inflammation, and discomfort, often due to an allergic reaction or skin conditions.",False,C,Rash
+extrovert,"Someone who feels uncomfortable or nervous in social situations, often avoiding attention or interaction with others due to self-consciousness.",False,C,Shy
+tired,"Full of energy, enthusiastic, and enjoyable. Refers to a person or atmosphere that is active, animated, and vibrant.",False,C,Lively
+Barack,A male first name of African origin commonly associated with a former President of the United States.,True,A,Barack
+Biden,A person who served as Vice President under President Obama and was elected as the 46th President of the US.,True,A,Biden
+old,Those from whom one is descended - individuals who came before us in our family line or lineage.,False,C,ancestors
+city,"A population count conducted to gather demographic data for areas, used for government planning and resource allocation purposes.",False,C,census
+calm,"Alert and cautious, hesitant to trust or act impulsively due to perceived danger or potential harm; cautious and watchful.",False,C,Wary
+Spain,"A country in East Asia known for its rich history, culture, and cuisine. It has a large population and diverse landscapes.",False,C,China
+emigrate,"People who have moved to a new country to live there permanently, often seeking better opportunities or escaping hardship.",False,C,immigrants
+depart,"To come together again after being apart, typically to reconnect, reconcile, or rebuild a relationship or connection previously broken.",False,C,reunite
+human,"A celestial being usually depicted with wings, known for protecting, guiding, and bringing messages from the divine realm.",False,C,angel
+stay,To move permanently from one country to another for reasons such as seeking better opportunities or escaping conflict or persecution.,False,C,emigrate
+unique,"Something that is normal, expected, or usual; a standard situation, behavior, or characteristic that is commonly seen or experienced.",False,C,Typical
+bookstore,"A store selling food and household items for daily consumption, such as fruits, vegetables, dairy products, and other essential groceries.",False,C,grocery
+school,"A building where art, historical artifacts, and scientific objects are exhibited and preserved for educational and cultural purposes.",False,C,museum
+banana,"A round fruit typically red or green in color, commonly used for eating raw or cooking in various dishes.",False,C,Apple
+usb,"A circular, flat storage device used to store and retrieve electronic data, typically inserted into a computer or other device.",False,C,disk
+ipod,"An electronic device designed to process and store data, perform tasks, and provide communication, entertainment, and productivity functionalities.",False,C,computer
+bird,"A small, rodent-like creature known for its pointed snout, furry body, long tail, and ability to quickly reproduce.",False,C,mouse
+Torch,"An electric or oil-powered light fixture designed to illuminate a specific area; commonly used for reading, task lighting, or decor.",False,C,lamp
+computer,"A handheld device with advanced computing capabilities, internet access, and communication features, commonly used for calls, texts, and apps.",False,C,smartphone
+screen,A device that replenishes the power of electronic gadgets by supplying electrical energy through a connected cord or dock.,False,C,charger
+glove,"Footwear that covers and protects the feet. Worn for comfort, style, and support. Come in various styles, sizes, and materials.",False,C,shoes
+door,A transparent opening in the wall or roof of a building that allows light and air to pass through.,False,C,window
+Doge,"A virtual pop star created by Crypton Future Media, known for her iconic turquoise hair and signature futuristic sound.",False,C,Miku
+Xbox,A Japanese video game company known for creating iconic characters and innovative consoles that have shaped the gaming industry.,False,C,Nintendo
+Apple,"A global technology corporation known for producing electronics, entertainment, gaming, and financial services, with a strong focus on innovation.",False,C,Sony
+Apple,"A multinational technology company founded by Bill Gates, known for developing software, operating systems, and cloud computing services.",False,C,Microsoft
+glass,"A container typically made of cloth or plastic used for storing and carrying items, ranging in size from small to large.",False,C,bag
+closet,"A horizontal surface, typically made of a frame and mattress, where one sleeps or rests in a bedroom.",False,C,bed
+bed,"A small, enclosed space within a home used for storage and organization of clothing, shoes, accessories, and other personal items.",False,C,closet
+card,The process of sending and receiving written correspondence or packages through a postal service or electronic communication methods.,False,C,mail
+keyboard,"An instrument with bristles, used for grooming hair or smoothing surfaces by applying pressure and friction in a repeated motion.",False,C,brush
+ubuntu,"A global network connecting computers, smartphones, and other devices to transmit data, share information, and communicate worldwide.",False,C,internet
+treasure,"Unwanted, discarded items or materials of little to no value, typically disposed of in a waste receptacle for removal.",False,C,trash
+painting,"An art form that combines sound and rhythm to create emotion and expression, often performed or composed for aesthetic enjoyment.",False,C,music
+metal,"A genre of music characterized by catchy melodies, upbeat rhythms, and commercial appeal, often featuring repeated choruses and hooks.",False,C,pop
+book,"A musical composition typically featuring lyrics and melody, often containing themes of love, loss, joy, or storytelling.",False,C,song
+Kendrick,"Grammy-winning rapper from Compton, unique for his profound and poetic reflections on life and society. He’s the only non-classical/jazz artist to win a Pulitzer in Music.",True,A,Kendrick
+late,In the near future or shortly; used when describing something that will happen in a short period of time.,False,C,soon

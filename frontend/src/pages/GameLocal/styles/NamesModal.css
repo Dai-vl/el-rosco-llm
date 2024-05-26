@@ -1,0 +1,77 @@
+.names-modal{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 100%;
+	height: 100%;
+}
+
+.names-modal h1{
+	text-align: center;
+	font-size: 3em;
+}
+
+.names-modal button{
+	border-radius: 50px;
+	font-size: 1em;
+	width: 5em;
+	padding: 0.3em 0.3em;
+}
+
+.names-selector{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 95%;
+	height: 50%;
+}
+
+.name-selector{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 50%;
+}
+
+.name-selector input{
+    border-radius: 50px;
+    font-size: 1em;
+    padding: 0.3em 0.3em;
+	color: black;
+}
+
+.name-selector input:focus{
+	scale: 1.1;
+}
+
+.player1-label{
+	color: var(--player_one);
+}
+
+.player2-label{
+	color: var(--player_two);
+}
+
+.time-selector{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.time-selector label, select{
+	border-radius: 10px;
+	font-size: 1em;
+	padding: 0.3em 0.3em;
+	margin: 0 0 0 0.3em;
+}
+
+.time-div label, p{
+	color: var(--header);
+}
+
+
+
+
+

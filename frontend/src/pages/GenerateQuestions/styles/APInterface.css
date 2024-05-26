@@ -1,0 +1,71 @@
+.interface{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 30%;
+    height: 100%;
+    padding: 0.3em 0.3em;
+    margin: 0 0.25em 0 0;
+    border-right: 0.25em solid black;
+}
+
+.api_communication{
+    display: flex;
+    justify-content: space-between;
+    align-items:normal;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    height: 45%;
+    padding: 0.3em 0.3em;
+    margin: 0.25em 0.25em 0.25em 0.25em;
+    border-bottom: 0.25em solid black;
+}
+
+.interface button{
+    font-size: 1.5em;
+    border-radius: 25px;
+    width: 90%;
+}
+
+.api_communication label{
+    font-size: 1.5em;
+    position: relative;
+    left: 35px;
+}
+
+.api_communication input{
+    font-size: 1.5em;
+    border-radius: 25px;
+    width: 90%;
+    position: relative;
+    left: 35px;
+}
+
+.api_communication button{
+    font-size: 1.5em;
+    border-radius: 25px;
+    width: 90%;
+    position: relative;
+    left: 35px;
+}
+
+.trained{
+    display: flex;
+    align-items: normal;
+    flex-direction: row;
+}
+
+.trained input{
+    width: 30%;
+}
+
+.questions{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 65%;
+}

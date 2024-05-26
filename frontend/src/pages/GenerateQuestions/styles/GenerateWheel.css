@@ -1,0 +1,26 @@
+.generate-wheel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 0%;
+    aspect-ratio: 1/1;
+    width: 70%;
+    border-radius: 50%;
+    list-style: none;
+    font-size: 1em;
+}
+
+.generate-wheel li{
+    width: 2em;
+    height: 2em;
+    border-radius: 100%;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: content-box;
+    border: 2px solid black;
+    user-select: none;
+    font-size: 1.5em;
+}

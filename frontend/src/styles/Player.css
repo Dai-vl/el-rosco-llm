@@ -1,0 +1,72 @@
+.player{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    font-size: 1em;
+    border-right: 0.1em solid black;
+    border-left: 0.1em solid black;
+}
+  
+.player-name{
+    height: 10%;
+    font-size: 1.5em
+}
+
+.p1 .player-name{
+    color: var(--player_one)
+}
+
+.p2 .player-name{
+    color: var(--player_two)
+}
+  
+.question{
+    width: 95%;
+    height: 25%;
+    text-align: center;
+    font-size: 1.3em
+}
+
+.bottom-player{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    height: 12.5%;
+    padding: 0.3em 0;
+    font-size: 1em;
+}
+  
+.skip{
+    border-radius: 50%;
+    width: 11.5%;
+    aspect-ratio: 1/1;
+    font-size: 0.80em;
+    background-color: var(--button_background);
+    color: var(--header);
+}
+  
+.player-info{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    width: 23%;
+    font-size: 1em;
+}
+
+.correct-answers{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    font-size: 1.4em;
+    background-color: var(--correct_answers)
+}
+

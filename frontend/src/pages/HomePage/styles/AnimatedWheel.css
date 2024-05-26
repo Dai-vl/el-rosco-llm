@@ -1,0 +1,27 @@
+.animated-wheel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 0%;
+    aspect-ratio: 1/1;
+    width: 10%;
+    border-radius: 50%;
+    list-style: none;
+    font-size: 1em;
+}
+
+.animated-wheel li{
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 100%;
+    box-sizing: content-box;
+    display: flex;
+    font-size: 1em;
+    justify-content: center;
+    height: 100%;
+    position: absolute;
+    top: -70%;
+    user-select: none;
+    width: 100%;
+}

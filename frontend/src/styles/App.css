@@ -1,0 +1,74 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#root{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	font-size: 1.05vw;
+	color: var(--body_color);
+	height: 100vh;
+}
+
+:root{
+	--body_background: #F5FBEF;
+	--modal_background: #F5FBEF;
+	--body_color : black;
+	--button_background: dodgerblue;
+	--button_color: white;
+	--button_hover: #192BC2;
+	--box_shadow: 0 1em 3em #0E0E52;
+	--correct_answers: green;
+	--player_one: dodgerblue;
+	--player_two: orange;
+	--answer_input: white;
+	--header: black;
+	--text: black;
+}
+
+[data-theme="dark"]{
+	--body_background: #282f43;
+	--modal_background: #150578;
+	--body_color: white;
+	--button_background: dodgerblue;
+	--button_color: white;
+	--button_hover: rgb(0, 0, 190);
+	--box_shadow: 0 1em 3em rgba(0, 0, 0, 0.3);
+	--correct_answers: green;
+	--player_one: dodgerblue;
+	--player_two: orange;
+	--answer_input: lavender;
+	--header: white;
+	--text: lightcyan;
+}
+
+.ReactModal__Content {
+	width: 40%; 
+	height: 60%;
+	padding: 20px;
+	background-color: var(--modal_background) !important;
+	border: 1px solid #ccc;
+	box-shadow: var(--box_shadow);
+	margin: 0 auto;
+	font-size: 1vw;
+}
+
+button:hover{
+	scale: 1.1;
+}
+
+.title {
+	font-family: 'Verdana', sans-serif;
+	color: dodgerblue;
+	font-size: 48px;
+	font-weight: bold;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+

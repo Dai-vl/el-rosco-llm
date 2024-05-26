@@ -1,0 +1,39 @@
+.modalContainer{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	font-size: 1.5em;
+	justify-content: center;
+}
+
+.buttons{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: horizontal;
+	font-size: 1.2em;
+}
+
+.buttons button{
+	background-color: var(--button_background);
+	border: none;
+	border-radius: 50px;
+	color: white;
+	padding: 0.5em 1.2em;
+	margin: 1.5em;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 1em;
+}
+
+.buttons button:hover{
+	background-color: var(--button_hover);
+}
+
+.code-input input{
+	border-radius: 50px;
+    font-size: 0.9em;
+    padding: 0.3em 0.3em;
+}
+
